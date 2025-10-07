@@ -22,6 +22,7 @@ const ExperienceSection = () => {
         "Provided ongoing maintenance and technical support for client websites"
       ],
       skills: ["WordPress", "PHP", "CSS/HTML", "JavaScript", "SEO", "UI/UX Design"],
+      link: "https://wordpress.com"
     },
     {
       title: "Lead Developer",
@@ -54,7 +55,7 @@ const ExperienceSection = () => {
       title: "Field Enumerator",
       company: "National Institute of Statistics",
       location: "Buea, Cameroon",
-      period: "July 2025 – Aug 2025",
+      period: "July 2024 – Aug 2024",
       icon: Users,
       description: [
         "Conducted field surveys on road infrastructure using Mapit and GPS-enabled devices",
@@ -67,7 +68,7 @@ const ExperienceSection = () => {
       title: "Secretariat Worker",
       company: "Cameroon GCE Board",
       location: "Buea, Cameroon",
-      period: "June 2025 – July 2025",
+      period: "June 2024 – July 2024",
       icon: Briefcase,
       description: [
         "Assisted in administrative and secretariat duties within the examination board",

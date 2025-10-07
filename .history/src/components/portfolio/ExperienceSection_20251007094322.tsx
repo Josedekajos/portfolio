@@ -22,6 +22,7 @@ const ExperienceSection = () => {
         "Provided ongoing maintenance and technical support for client websites"
       ],
       skills: ["WordPress", "PHP", "CSS/HTML", "JavaScript", "SEO", "UI/UX Design"],
+      link: "https://wordpress.com"
     },
     {
       title: "Lead Developer",

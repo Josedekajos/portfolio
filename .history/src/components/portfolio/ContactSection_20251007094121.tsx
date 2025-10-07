@@ -13,8 +13,8 @@ const ContactSection = () => {
     {
       icon: Phone,
       label: "Phone",
-      value: "(+237) 658 462 646",
-      href: "tel:+237658462646"
+      value: "(+237) 658  646",
+      href: "tel:+237658578938"
     },
     {
       icon: Phone,
@@ -55,7 +55,7 @@ const ContactSection = () => {
                     <div className="relative w-4 h-4 bg-success rounded-full" />
                   </div>
                   <span className="text-success font-bold text-lg code-text">
-                     ACTIVELY SEEKING NEW OPPORTUNITIES
+                    💼 ACTIVELY SEEKING NEW OPPORTUNITIES
                   </span>
                 </div>
               </div>

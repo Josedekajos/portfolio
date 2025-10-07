@@ -22,6 +22,7 @@ const ExperienceSection = () => {
         "Provided ongoing maintenance and technical support for client websites"
       ],
       skills: ["WordPress", "PHP", "CSS/HTML", "JavaScript", "SEO", "UI/UX Design"],
+      link: "https://wordpress.com"
     },
     {
       title: "Lead Developer",
@@ -67,7 +68,7 @@ const ExperienceSection = () => {
       title: "Secretariat Worker",
       company: "Cameroon GCE Board",
       location: "Buea, Cameroon",
-      period: "June 2025 – July 2025",
+      period: "June 2025 – July 2024",
       icon: Briefcase,
       description: [
         "Assisted in administrative and secretariat duties within the examination board",

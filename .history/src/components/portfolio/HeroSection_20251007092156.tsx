@@ -37,7 +37,7 @@ const HeroSection = () => {
               <div className="relative px-6 py-3 bg-success/10 border-2 border-success rounded-full flex items-center gap-3">
                 <div className="w-3 h-3 bg-success rounded-full animate-pulse" />
                 <span className="text-success font-bold text-sm md:text-base code-text">
-                   OPEN TO WORK - Actively Seeking Opportunities
+                  🚀 OPEN TO WORK - Actively Seeking Opportunities
                 </span>
               </div>
             </div>
@@ -58,7 +58,7 @@ const HeroSection = () => {
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-center md:text-left tracking-tight">
               <span className="neon-text animate-glow">IMELE AZAFA</span>
               <br />
-              <span className="text-foreground">JOSE DE KAJOS</span>
+              <span className="text-foreground">JOSE</span>
             </h1>
           </div>
 
@@ -82,7 +82,7 @@ const HeroSection = () => {
             </div>
             <div className="flex items-center gap-2">
               <Phone className="w-5 h-5 text-accent" />
-              <span>(+237) 658 462 646</span>
+              <span>(+237) 658 578 938</span>
             </div>
           </div>
 

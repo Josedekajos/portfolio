@@ -55,7 +55,7 @@ const ContactSection = () => {
                     <div className="relative w-4 h-4 bg-success rounded-full" />
                   </div>
                   <span className="text-success font-bold text-lg code-text">
-                     ACTIVELY SEEKING NEW OPPORTUNITIES
+                    💼 ACTIVELY SEEKING NEW OPPORTUNITIES
                   </span>
                 </div>
               </div>

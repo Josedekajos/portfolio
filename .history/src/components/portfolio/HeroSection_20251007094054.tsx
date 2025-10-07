@@ -82,7 +82,7 @@ const HeroSection = () => {
             </div>
             <div className="flex items-center gap-2">
               <Phone className="w-5 h-5 text-accent" />
-              <span>(+237) 658 462 646</span>
+              <span>(+237) 658 462</span>
             </div>
           </div>
 
